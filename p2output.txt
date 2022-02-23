@@ -1,1 +1,12 @@
-
+gcc -g p2original.c -lm
+ ./a.out
+enter the value of x,y
+42
+53
+enter the value of x,y
+63
+75
+enter the value of x,y
+86
+96
+the points (42.000000,53.000000),(63.000000,75.000000),(86.000000,96.000000) form a triangle
